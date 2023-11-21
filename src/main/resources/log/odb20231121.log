@@ -1,0 +1,83 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-11-21 12:11:18 #1 store] 
+Database 'C:\Users\ehu\git\BetsJSFHibernate\src\main\resources\bets.temp' has been recovered (tr. 25-29)
+
+[2023-11-21 12:11:18 #2 store] 
+Database 'C:\Users\ehu\git\BetsJSFHibernate\src\main\resources\bets.temp' is opened by 7336@U105288
+
+[2023-11-21 12:11:18 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-11-21 12:11:18 #4 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-11-21 12:13:45 #1 store] 
+Database 'C:\Users\ehu\git\BetsJSFHibernate\src\main\resources\bets.temp' has been recovered (tr. 30-30)
+
+[2023-11-21 12:13:45 #2 store] 
+Database 'C:\Users\ehu\git\BetsJSFHibernate\src\main\resources\bets.temp' is opened by 3404@U105288
+
+[2023-11-21 12:13:45 #3 type] 
+Type domain.Event is not enhanced.
+
+[2023-11-21 12:13:45 #4 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-11-21 12:13:58 #1 store] 
+Database 'C:\Users\ehu\git\BetsJSFHibernate\src\main\resources\bets.temp' is opened by 15240@U105288
+
+[2023-11-21 12:13:58 #2 type] 
+Type domain.Event is not enhanced.
+
+[2023-11-21 12:13:58 #3 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-11-21 12:14:45 #1 store] 
+Database 'C:\Users\ehu\git\BetsJSFHibernate\src\main\resources\bets.temp' is opened by 10936@U105288
+
+[2023-11-21 12:14:45 #2 type] 
+Type domain.Event is not enhanced.
+
+[2023-11-21 12:14:45 #3 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-11-21 12:15:19 #1 store] 
+Database 'C:\Users\ehu\git\BetsJSFHibernate\src\main\resources\bets.temp' is opened by 4144@U105288
+
+[2023-11-21 12:15:19 #2 type] 
+Type domain.Event is not enhanced.
+
+[2023-11-21 12:15:19 #3 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-11-21 12:16:57 #1 store] 
+Database 'C:\Users\ehu\git\BetsJSFHibernate\src\main\resources\bets.temp' is opened by 16260@U105288
+
+[2023-11-21 12:16:58 #2 type] 
+Type domain.Event is not enhanced.
+
+[2023-11-21 12:16:58 #3 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-11-21 12:17:36 #1 store] 
+Database 'C:\Users\ehu\git\BetsJSFHibernate\src\main\resources\bets.temp' is opened by 2740@U105288
+
+[2023-11-21 12:17:36 #2 type] 
+Type domain.Event is not enhanced.
+
+[2023-11-21 12:17:36 #3 type] 
+Type domain.Question is not enhanced.
+
