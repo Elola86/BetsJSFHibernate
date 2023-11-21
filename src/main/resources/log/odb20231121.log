@@ -81,3 +81,14 @@ Type domain.Event is not enhanced.
 [2023-11-21 12:17:36 #3 type] 
 Type domain.Question is not enhanced.
 
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-11-21 12:42:18 #1 store] 
+Database 'C:\Users\ehu\git\BetsJSFHibernate\src\main\resources\bets.temp' is opened by 15768@U105288
+
+[2023-11-21 12:42:18 #2 type] 
+Type domain.Event is not enhanced.
+
+[2023-11-21 12:42:18 #3 type] 
+Type domain.Question is not enhanced.
+
